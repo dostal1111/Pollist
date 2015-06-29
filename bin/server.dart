@@ -69,7 +69,7 @@ main () {
   Server.addPlugin(getMapperPlugin(dbManager));
   Server.setupConsoleLog();
   Server.start(address: host, port: port);
-}/
+}
 
 @Group("/api")
 class ApiService {
