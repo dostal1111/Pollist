@@ -1,0 +1,5 @@
+.pub/
+dart/
+packages/
+*.lock
+mongod

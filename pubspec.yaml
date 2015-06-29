@@ -1,0 +1,7 @@
+name: pollist
+version: 1.0.0
+dependencies:
+  redstone: "^0.5.21+1"
+  redstone_mapper: any
+  redstone_mapper_mongo: any
+  rethinkdb_driver: "2.0.1+1"
